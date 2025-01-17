@@ -3,3 +3,6 @@ torch
 gym
 atari-py
 box2d
+stable-baselines3[extra]
+ipykernel
+shimmy
